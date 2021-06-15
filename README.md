@@ -46,7 +46,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/vitorsalesg/youtube_clone_app.git
+$ git clone https://github.com/vitorsalesg/fluttertube.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd youtube_clone_app
