@@ -18,7 +18,7 @@
 
 ## 💻 Sobre o projeto
 
-Youtube Clone - É um clone das telas iniciais do app oficial, foi criado totalmente com Flutter. As informações dos vídeos são fornecidas pela API oficial do Youtube e foram consultadas utilizando o package Http. Com aplicativo também é possível buscar vídeos clicando no ícone de busca e assistir clicando no vídeo desejado.
+Flutter Tuber - É um clone das telas iniciais do app Youtube. As informações dos vídeos são fornecidas pela API oficial do Youtube e foram consultadas utilizando o package Http. Com aplicativo também é possível buscar vídeos clicando no ícone de busca, assistir clicando no vídeo desejado e favoritar clicando no ícone de estrela ao lado do video.
 
 ---
 
@@ -70,6 +70,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[http](https://pub.dev/packages/http)**
 -   **[flutter_youtube](https://pub.dev/)**
+-   **[rxdart](https://pub.dev/packages/rxdart)**
+-   **[bloc_pattern](https://pub.dev/packages/bloc_pattern)**
 
 ---
 
